@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : ja__el
+  username               : "ja__el"
 facebook:
   username               :
   app_id                 :
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Jael Lozano"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a person."
+  bio              : "_I_ am a person."
   location         : "Somewhere"
   email            :
   links:
